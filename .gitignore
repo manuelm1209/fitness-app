@@ -10,6 +10,7 @@
 .svn/
 #Mio
 key.jks
+android/app/google-services.json
 
 # IntelliJ related
 *.iml
