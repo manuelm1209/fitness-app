@@ -8,6 +8,7 @@
 .buildlog/
 .history
 .svn/
+#Mio
 key.jks
 
 # IntelliJ related
