@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144506579051",
+    "firebase_url": "https://fitmodeco-push.firebaseio.com",
+    "project_id": "fitmodeco-push",
+    "storage_bucket": "fitmodeco-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144506579051:android:769ef91c524457cb51292e",
+        "android_client_info": {
+          "package_name": "com.fitmodeco.fitmodeco_navbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144506579051-kvq2m7tlnchhltvojubchvvh7qk3u296.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitmodeco.fitmodeco_navbar",
+            "certificate_hash": "74b2d630ac6e16a771979cddd795f334db8a2b63"
+          }
+        },
+        {
+          "client_id": "144506579051-5a1l5bksqfktb40dbnlvbl6oefg1plfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGOwlYtbjKzxVEjzjyOURWrXKsZ5t8XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144506579051-5a1l5bksqfktb40dbnlvbl6oefg1plfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
